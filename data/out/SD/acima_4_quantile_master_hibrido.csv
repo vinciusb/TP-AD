@@ -1,6 +1,0 @@
-Nr.	Depth	Coverage	Quality	Average	St. Dev.	p-Value	Conditions
-1	2	1143	12.632311820983887	5.639318217547025	0.25395603607057243	NaN	RemoteWork = 'Hybrid-(some-remote-some-in-person)' AND EdLevel = 'Master’s-degree-(M.A.-M.S.-M.Eng.-MBA-etc.)'
-2	2	1143	12.632311820983887	5.639318217547025	0.25395603607057243	NaN	EdLevel = 'Master’s-degree-(M.A.-M.S.-M.Eng.-MBA-etc.)' AND RemoteWork = 'Hybrid-(some-remote-some-in-person)'
-3	1	3912	12.465519905090332	5.596069086304959	0.24125181717577635	NaN	RemoteWork = 'Hybrid-(some-remote-some-in-person)'
-4	2	1174	11.980779647827148	5.633368990896508	0.2514021510599282	NaN	Age = '25-34-years-old' AND EdLevel = 'Master’s-degree-(M.A.-M.S.-M.Eng.-MBA-etc.)'
-5	2	1174	11.980779647827148	5.633368990896508	0.2514021510599282	NaN	EdLevel = 'Master’s-degree-(M.A.-M.S.-M.Eng.-MBA-etc.)' AND Age = '25-34-years-old'

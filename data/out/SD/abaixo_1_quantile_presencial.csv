@@ -1,6 +1,0 @@
-Nr.	Depth	Coverage	Quality	Average	St. Dev.	p-Value	Conditions
-1	1	1525	0.012844718992710114	-0.3480583215932377	0.9889666524726043	NaN	Age = '18-24-years-old'
-2	2	1282	0.010516558773815632	-0.31650120680120175	0.9588744254786558	NaN	Age = '18-24-years-old' AND Employment = 'Employed-full-time'
-3	2	342	0.009761948138475418	-0.6745389079489903	0.935858203911273	NaN	Age = '18-24-years-old' AND RemoteWork = 'In-person'
-4	3	297	0.008102505467832088	-0.6344673336555661	0.9119134697423216	NaN	Age = '18-24-years-old' AND Employment = 'Employed-full-time' AND RemoteWork = 'In-person'
-5	3	297	0.008102505467832088	-0.6344673336555661	0.9119134697423216	NaN	Age = '18-24-years-old' AND RemoteWork = 'In-person' AND Employment = 'Employed-full-time'
