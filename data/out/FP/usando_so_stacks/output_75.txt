@@ -1,0 +1,58 @@
+Redis, #SUP: 1531
+.NET (5+) , #SUP: 1776
+C#, .NET (5+) , #SUP: 1697
+SQLite, #SUP: 1825
+Java, #SUP: 1833
+Microsoft Azure, #SUP: 2061
+Microsoft SQL Server, #SUP: 2090
+Microsoft SQL Server, C#, #SUP: 1529
+SQL, Microsoft SQL Server, #SUP: 1690
+MySQL, #SUP: 2115
+SQL, MySQL, #SUP: 1487
+JavaScript, MySQL, #SUP: 1616
+C#, #SUP: 2352
+SQL, C#, #SUP: 1602
+JavaScript, C#, #SUP: 1652
+Bash/Shell (all shells), #SUP: 2878
+Bash/Shell (all shells), PostgreSQL, #SUP: 1536
+HTML/CSS, Bash/Shell (all shells), #SUP: 1605
+Amazon Web Services (AWS), Bash/Shell (all shells), #SUP: 1647
+Bash/Shell (all shells), SQL, #SUP: 1694
+Python, Bash/Shell (all shells), #SUP: 1750
+JavaScript, Bash/Shell (all shells), #SUP: 1908
+TypeScript, #SUP: 3181
+TypeScript, PostgreSQL, #SUP: 1659
+Amazon Web Services (AWS), TypeScript, #SUP: 1856
+JavaScript, Amazon Web Services (AWS), TypeScript, #SUP: 1643
+SQL, TypeScript, #SUP: 1866
+JavaScript, SQL, TypeScript, #SUP: 1686
+HTML/CSS, TypeScript, #SUP: 2215
+HTML/CSS, JavaScript, TypeScript, #SUP: 2058
+JavaScript, TypeScript, #SUP: 2769
+PostgreSQL, #SUP: 3221
+Python, PostgreSQL, #SUP: 1723
+HTML/CSS, PostgreSQL, #SUP: 1768
+HTML/CSS, JavaScript, PostgreSQL, #SUP: 1592
+SQL, PostgreSQL, #SUP: 2006
+JavaScript, SQL, PostgreSQL, #SUP: 1512
+Amazon Web Services (AWS), PostgreSQL, #SUP: 2142
+JavaScript, Amazon Web Services (AWS), PostgreSQL, #SUP: 1586
+JavaScript, PostgreSQL, #SUP: 2260
+Python, #SUP: 3376
+HTML/CSS, Python, #SUP: 1623
+Python, SQL, #SUP: 1864
+Python, Amazon Web Services (AWS), #SUP: 1893
+JavaScript, Python, #SUP: 2023
+Amazon Web Services (AWS), #SUP: 3681
+HTML/CSS, Amazon Web Services (AWS), #SUP: 2016
+HTML/CSS, JavaScript, Amazon Web Services (AWS), #SUP: 1857
+Amazon Web Services (AWS), SQL, #SUP: 2107
+JavaScript, Amazon Web Services (AWS), SQL, #SUP: 1639
+JavaScript, Amazon Web Services (AWS), #SUP: 2606
+HTML/CSS, #SUP: 3714
+HTML/CSS, SQL, #SUP: 2463
+HTML/CSS, JavaScript, SQL, #SUP: 2238
+HTML/CSS, JavaScript, #SUP: 3326
+SQL, #SUP: 3956
+JavaScript, SQL, #SUP: 2889
+JavaScript, #SUP: 4678

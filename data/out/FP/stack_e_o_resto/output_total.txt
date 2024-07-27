@@ -1,0 +1,31 @@
+Bash/Shell (all shells), #SUP: 13943
+Bash/Shell (all shells), Employed-full-time, #SUP: 11703
+full-stack, #SUP: 14068
+JavaScript, full-stack, #SUP: 11975
+TypeScript, #SUP: 16564
+TypeScript, Employed-full-time, #SUP: 13691
+JavaScript, TypeScript, #SUP: 14340
+JavaScript, TypeScript, Employed-full-time, #SUP: 11787
+Hybrid-(some-remote-some-in-person), #SUP: 16833
+Employed-full-time, Hybrid-(some-remote-some-in-person), #SUP: 14704
+Remote, #SUP: 17245
+Employed-full-time, Remote, #SUP: 13462
+25-34-years-old, #SUP: 17564
+25-34-years-old, Employed-full-time, #SUP: 15162
+Python, #SUP: 17880
+Python, Employed-full-time, #SUP: 15168
+Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), #SUP: 18123
+JavaScript, Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), #SUP: 12076
+Employed-full-time, Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), #SUP: 15626
+HTML/CSS, #SUP: 19655
+HTML/CSS, SQL, #SUP: 12634
+HTML/CSS, Employed-full-time, #SUP: 15924
+HTML/CSS, JavaScript, #SUP: 17541
+HTML/CSS, JavaScript, Employed-full-time, #SUP: 14176
+SQL, #SUP: 20085
+JavaScript, SQL, #SUP: 14773
+JavaScript, SQL, Employed-full-time, #SUP: 11983
+SQL, Employed-full-time, #SUP: 16581
+JavaScript, #SUP: 24548
+JavaScript, Employed-full-time, #SUP: 20115
+Employed-full-time, #SUP: 32540

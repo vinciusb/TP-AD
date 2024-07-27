@@ -1,0 +1,6 @@
+Nr.	Depth	Coverage	Quality	Average	St. Dev.	p-Value	Conditions
+1	1	4480	0.02252204716205597	-0.15754172461373464	1.012564445476447	NaN	RemoteWork = 'Remote'
+2	2	3469	0.018438832834362984	-0.18755441964205283	0.9731693808679973	NaN	RemoteWork = 'Remote' AND Employment = 'Employed-full-time'
+3	2	2417	0.017198368906974792	-0.23350429574369053	0.9486334244813618	NaN	RemoteWork = 'Remote' AND EdLevel = 'Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.)'
+4	3	1968	0.015722062438726425	-0.2620654532579872	0.9070536924078224	NaN	RemoteWork = 'Remote' AND Employment = 'Employed-full-time' AND EdLevel = 'Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.)'
+5	3	1968	0.015722062438726425	-0.2620654532579872	0.9070536924078224	NaN	RemoteWork = 'Remote' AND EdLevel = 'Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.)' AND Employment = 'Employed-full-time'

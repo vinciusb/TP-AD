@@ -1,0 +1,52 @@
+.NET (5+) , #SUP: 1758
+C#, .NET (5+) , #SUP: 1674
+Java, #SUP: 1907
+SQLite, #SUP: 1919
+Microsoft Azure, #SUP: 1989
+Microsoft SQL Server, #SUP: 2062
+SQL, Microsoft SQL Server, #SUP: 1613
+C#, #SUP: 2302
+JavaScript, C#, #SUP: 1593
+MySQL, #SUP: 2397
+SQL, MySQL, #SUP: 1660
+HTML/CSS, MySQL, #SUP: 1665
+HTML/CSS, JavaScript, MySQL, #SUP: 1520
+JavaScript, MySQL, #SUP: 1887
+Bash/Shell (all shells), #SUP: 2756
+Bash/Shell (all shells), SQL, #SUP: 1633
+HTML/CSS, Bash/Shell (all shells), #SUP: 1666
+Python, Bash/Shell (all shells), #SUP: 1676
+JavaScript, Bash/Shell (all shells), #SUP: 1857
+Amazon Web Services (AWS), #SUP: 3088
+Python, Amazon Web Services (AWS), #SUP: 1598
+Amazon Web Services (AWS), TypeScript, #SUP: 1608
+Amazon Web Services (AWS), PostgreSQL, #SUP: 1692
+Amazon Web Services (AWS), SQL, #SUP: 1766
+HTML/CSS, Amazon Web Services (AWS), #SUP: 1819
+HTML/CSS, JavaScript, Amazon Web Services (AWS), #SUP: 1659
+JavaScript, Amazon Web Services (AWS), #SUP: 2234
+PostgreSQL, #SUP: 3089
+TypeScript, PostgreSQL, #SUP: 1666
+Python, PostgreSQL, #SUP: 1678
+HTML/CSS, PostgreSQL, #SUP: 1838
+HTML/CSS, JavaScript, PostgreSQL, #SUP: 1631
+SQL, PostgreSQL, #SUP: 1921
+JavaScript, PostgreSQL, #SUP: 2200
+TypeScript, #SUP: 3209
+SQL, TypeScript, #SUP: 1851
+JavaScript, SQL, TypeScript, #SUP: 1677
+HTML/CSS, TypeScript, #SUP: 2305
+HTML/CSS, JavaScript, TypeScript, #SUP: 2116
+JavaScript, TypeScript, #SUP: 2763
+Python, #SUP: 3526
+HTML/CSS, Python, #SUP: 1791
+HTML/CSS, JavaScript, Python, #SUP: 1580
+Python, SQL, #SUP: 1913
+JavaScript, Python, #SUP: 2135
+SQL, #SUP: 4009
+HTML/CSS, SQL, #SUP: 2695
+HTML/CSS, JavaScript, SQL, #SUP: 2418
+JavaScript, SQL, #SUP: 3007
+HTML/CSS, #SUP: 4141
+HTML/CSS, JavaScript, #SUP: 3650
+JavaScript, #SUP: 4839

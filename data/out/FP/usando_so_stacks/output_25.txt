@@ -1,0 +1,50 @@
+PHP, #SUP: 1582
+Microsoft Azure, #SUP: 1608
+Microsoft SQL Server, #SUP: 1762
+MongoDB, #SUP: 1824
+JavaScript, MongoDB, #SUP: 1483
+SQLite, #SUP: 1911
+C#, #SUP: 1954
+Java, #SUP: 2122
+Bash/Shell (all shells), #SUP: 2141
+MySQL, #SUP: 2866
+Amazon Web Services (AWS), MySQL, #SUP: 1510
+SQL, MySQL, #SUP: 1901
+JavaScript, SQL, MySQL, #SUP: 1563
+HTML/CSS, MySQL, #SUP: 1930
+HTML/CSS, JavaScript, MySQL, #SUP: 1802
+JavaScript, MySQL, #SUP: 2250
+TypeScript, #SUP: 3005
+Amazon Web Services (AWS), TypeScript, #SUP: 1514
+TypeScript, PostgreSQL, #SUP: 1549
+SQL, TypeScript, #SUP: 1694
+JavaScript, SQL, TypeScript, #SUP: 1536
+HTML/CSS, TypeScript, #SUP: 2175
+HTML/CSS, JavaScript, TypeScript, #SUP: 2039
+JavaScript, TypeScript, #SUP: 2671
+PostgreSQL, #SUP: 3057
+Python, PostgreSQL, #SUP: 1649
+Amazon Web Services (AWS), PostgreSQL, #SUP: 1722
+HTML/CSS, PostgreSQL, #SUP: 1787
+HTML/CSS, JavaScript, PostgreSQL, #SUP: 1642
+SQL, PostgreSQL, #SUP: 1899
+JavaScript, SQL, PostgreSQL, #SUP: 1498
+JavaScript, PostgreSQL, #SUP: 2253
+Amazon Web Services (AWS), #SUP: 3122
+Python, Amazon Web Services (AWS), #SUP: 1565
+Amazon Web Services (AWS), SQL, #SUP: 1697
+HTML/CSS, Amazon Web Services (AWS), #SUP: 1758
+HTML/CSS, JavaScript, Amazon Web Services (AWS), #SUP: 1649
+JavaScript, Amazon Web Services (AWS), #SUP: 2297
+Python, #SUP: 3291
+HTML/CSS, Python, #SUP: 1747
+HTML/CSS, JavaScript, Python, #SUP: 1575
+Python, SQL, #SUP: 1844
+JavaScript, Python, #SUP: 2098
+SQL, #SUP: 3787
+HTML/CSS, SQL, #SUP: 2509
+HTML/CSS, JavaScript, SQL, #SUP: 2281
+JavaScript, SQL, #SUP: 2869
+HTML/CSS, #SUP: 4056
+HTML/CSS, JavaScript, #SUP: 3681
+JavaScript, #SUP: 4950

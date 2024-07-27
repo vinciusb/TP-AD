@@ -1,0 +1,6 @@
+Nr.	Depth	Coverage	Quality	Average	St. Dev.	p-Value	Conditions
+1	1	3856	0.11340811103582382	5.388436345143932	0.13944732988459418	NaN	Country = 'United-States-of-America'
+2	2	3478	0.10258954763412476	5.38729435469379	0.14023008607525372	NaN	Country = 'United-States-of-America' AND Employment = 'Employed-full-time'
+3	2	2357	0.08298645168542862	5.374094286964361	0.12712173865229778	NaN	Country = 'United-States-of-America' AND RemoteWork = 'Remote'
+4	3	2051	0.07307088375091553	5.372116021910044	0.12822914690680362	NaN	Country = 'United-States-of-America' AND Employment = 'Employed-full-time' AND RemoteWork = 'Remote'
+5	3	2051	0.07307088375091553	5.372116021910044	0.12822914690680362	NaN	Country = 'United-States-of-America' AND RemoteWork = 'Remote' AND Employment = 'Employed-full-time'

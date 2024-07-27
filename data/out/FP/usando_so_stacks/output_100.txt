@@ -1,0 +1,68 @@
+Microsoft SQL Server, #SUP: 1528
+Go, #SUP: 1670
+Microsoft Azure, #SUP: 1754
+SQLite, #SUP: 1779
+Google Cloud, #SUP: 1805
+C#, #SUP: 1829
+Redis, #SUP: 1912
+Amazon Web Services (AWS), Redis, #SUP: 1510
+MySQL, #SUP: 1953
+Amazon Web Services (AWS), MySQL, #SUP: 1455
+JavaScript, MySQL, #SUP: 1469
+Java, #SUP: 2054
+Bash/Shell (all shells), #SUP: 3222
+Bash/Shell (all shells), TypeScript, #SUP: 1497
+HTML/CSS, Bash/Shell (all shells), #SUP: 1643
+HTML/CSS, JavaScript, Bash/Shell (all shells), #SUP: 1466
+Bash/Shell (all shells), PostgreSQL, #SUP: 1780
+Bash/Shell (all shells), SQL, #SUP: 1870
+JavaScript, Bash/Shell (all shells), #SUP: 2102
+JavaScript, Amazon Web Services (AWS), Bash/Shell (all shells), #SUP: 1541
+Python, Bash/Shell (all shells), #SUP: 2119
+Python, Amazon Web Services (AWS), Bash/Shell (all shells), #SUP: 1514
+Amazon Web Services (AWS), Bash/Shell (all shells), #SUP: 2230
+TypeScript, #SUP: 3281
+Python, TypeScript, #SUP: 1602
+TypeScript, PostgreSQL, #SUP: 1833
+JavaScript, TypeScript, PostgreSQL, #SUP: 1616
+SQL, TypeScript, #SUP: 1875
+JavaScript, SQL, TypeScript, #SUP: 1677
+HTML/CSS, TypeScript, #SUP: 2097
+HTML/CSS, JavaScript, TypeScript, #SUP: 1946
+Amazon Web Services (AWS), TypeScript, #SUP: 2236
+JavaScript, TypeScript, #SUP: 2803
+JavaScript, Amazon Web Services (AWS), TypeScript, #SUP: 1941
+HTML/CSS, #SUP: 3307
+HTML/CSS, Python, #SUP: 1635
+HTML/CSS, JavaScript, Python, #SUP: 1457
+HTML/CSS, PostgreSQL, #SUP: 1794
+HTML/CSS, JavaScript, PostgreSQL, #SUP: 1620
+HTML/CSS, SQL, #SUP: 2149
+HTML/CSS, Amazon Web Services (AWS), SQL, #SUP: 1454
+HTML/CSS, JavaScript, SQL, #SUP: 1955
+HTML/CSS, Amazon Web Services (AWS), #SUP: 2159
+HTML/CSS, JavaScript, #SUP: 2960
+HTML/CSS, JavaScript, Amazon Web Services (AWS), #SUP: 1954
+PostgreSQL, #SUP: 3456
+Python, PostgreSQL, #SUP: 1997
+Python, Amazon Web Services (AWS), PostgreSQL, #SUP: 1617
+SQL, PostgreSQL, #SUP: 2196
+JavaScript, SQL, PostgreSQL, #SUP: 1673
+Amazon Web Services (AWS), SQL, PostgreSQL, #SUP: 1728
+JavaScript, PostgreSQL, #SUP: 2422
+JavaScript, Amazon Web Services (AWS), PostgreSQL, #SUP: 1903
+Amazon Web Services (AWS), PostgreSQL, #SUP: 2691
+SQL, #SUP: 3706
+Python, SQL, #SUP: 2078
+JavaScript, Python, SQL, #SUP: 1479
+Python, Amazon Web Services (AWS), SQL, #SUP: 1513
+Amazon Web Services (AWS), SQL, #SUP: 2484
+JavaScript, SQL, #SUP: 2682
+JavaScript, Amazon Web Services (AWS), SQL, #SUP: 1868
+Python, #SUP: 3759
+JavaScript, Python, #SUP: 2269
+JavaScript, Python, Amazon Web Services (AWS), #SUP: 1658
+Python, Amazon Web Services (AWS), #SUP: 2553
+JavaScript, #SUP: 4469
+JavaScript, Amazon Web Services (AWS), #SUP: 3013
+Amazon Web Services (AWS), #SUP: 4515

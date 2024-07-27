@@ -1,0 +1,10 @@
+Master’s-degree-(M.A.-M.S.-M.Eng.-MBA-etc.), #SUP: 3077
+Remote, #SUP: 3230
+Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), #SUP: 3404
+full-stack, #SUP: 3670
+Employed-full-time, full-stack, #SUP: 2962
+Hybrid-(some-remote-some-in-person), #SUP: 4805
+Employed-full-time, Hybrid-(some-remote-some-in-person), #SUP: 4173
+25-34-years-old, #SUP: 4881
+25-34-years-old, Employed-full-time, #SUP: 4204
+Employed-full-time, #SUP: 7949

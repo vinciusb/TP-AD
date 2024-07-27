@@ -1,0 +1,19 @@
+35-44-years-old, #SUP: 3143
+Hybrid-(some-remote-some-in-person), #SUP: 3462
+Employed-full-time, Hybrid-(some-remote-some-in-person), #SUP: 3039
+full-stack, #SUP: 3719
+Employed-full-time, full-stack, #SUP: 3075
+25-34-years-old, #SUP: 4157
+25-34-years-old, Employed-full-time, #SUP: 3575
+Remote, #SUP: 5464
+Remote, Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), #SUP: 3121
+Remote, United-States-of-America, #SUP: 3371
+Employed-full-time, Remote, United-States-of-America, #SUP: 3000
+Employed-full-time, Remote, #SUP: 4432
+Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), #SUP: 5561
+Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), United-States-of-America, #SUP: 3432
+Employed-full-time, Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), United-States-of-America, #SUP: 3174
+Employed-full-time, Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), #SUP: 4866
+United-States-of-America, #SUP: 5584
+Employed-full-time, United-States-of-America, #SUP: 5086
+Employed-full-time, #SUP: 8303

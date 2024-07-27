@@ -1,0 +1,10 @@
+full-stack, #SUP: 14012
+Hybrid-(some-remote-some-in-person), #SUP: 16784
+Employed-full-time, Hybrid-(some-remote-some-in-person), #SUP: 14661
+Remote, #SUP: 17192
+Employed-full-time, Remote, #SUP: 13418
+25-34-years-old, #SUP: 17503
+25-34-years-old, Employed-full-time, #SUP: 15106
+Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), #SUP: 18068
+Employed-full-time, Bachelor’s-degree-(B.A.-B.S.-B.Eng.-etc.), #SUP: 15576
+Employed-full-time, #SUP: 32442
